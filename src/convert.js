@@ -10,8 +10,8 @@ module.exports = {
       entry.value.formatted = {
         value: parseFloat( convert.val.toFixed(2) ),
         unit: convert.unit,
-        singular: convert.singular,
-        plural: convert.plural
+        singular: convert.singular.toLowerCase(),
+        plural: convert.plural.toLowerCase()
       }
     }
 
@@ -26,15 +26,24 @@ module.exports = {
       entry.value.formatted = {
         value: parseFloat( convert.val.toFixed(2) ),
         unit: convert.unit,
-        singular: convert.singular,
-        plural: convert.plural
+        singular: convert.singular.toLowerCase(),
+        plural: convert.plural.toLowerCase()
       }
     }
 
     return entry
   },
 
-  number: async ( entry ) => {
+  unit: async ( entry ) => {
+    if( entry.value.raw > 0 ) {
+      entry.value.formatted = {
+        value: entry.value.raw.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ','),
+        unit: 'u',
+        singular: 'unit',
+        plural: 'units'
+      }
+    }
+
     return entry
   }
 

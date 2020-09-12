@@ -2,47 +2,47 @@
 
   {
     "id": "custom",
-    "type": "number"
+    "type": "unit"
   },
 
   {
     "id": "broken",
-    "type": "number"
+    "type": "unit"
   },
 
   {
     "id": "crafted",
-    "type": "number"
+    "type": "unit"
   },
 
   {
     "id": "dropped",
-    "type": "number"
+    "type": "unit"
   },
 
   {
     "id": "killed",
-    "type": "number"
+    "type": "unit"
   },
 
   {
     "id": "killed_by",
-    "type": "number"
+    "type": "unit"
   },
 
   {
     "id": "mined",
-    "type": "number"
+    "type": "unit"
   },
 
   {
     "id": "picked_up",
-    "type": "number"
+    "type": "unit"
   },
 
   {
     "id": "used",
-    "type": "number"
+    "type": "unit"
   }
 
 ]

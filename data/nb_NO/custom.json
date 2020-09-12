@@ -8,10 +8,6 @@
 		"id": "aviate_one_cm"
 	},
 	{
-		"id": "beacon_interaction",
-		"name": "Samhandlinger med beacon"
-	},
-	{
 		"id": "bell_ring",
 		"name": "Klokkering",
 		"description": "Antall ganger slått på en klokke."
