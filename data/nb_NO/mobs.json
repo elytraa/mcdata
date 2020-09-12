@@ -1,0 +1,218 @@
+[
+	{
+		"id": "bat",
+		"name": "Bat"
+	},
+	{
+		"id": "bee",
+		"name": "Bee"
+	},
+	{
+		"id": "blaze",
+		"name": "Blaze"
+	},
+	{
+		"id": "cat",
+		"name": "Cat"
+	},
+	{
+		"id": "cave_spider",
+		"name": "Cave spider"
+	},
+	{
+		"id": "chicken",
+		"name": "Chicken"
+	},
+	{
+		"id": "cod",
+		"name": "Cod"
+	},
+	{
+		"id": "cow",
+		"name": "Cow"
+	},
+	{
+		"id": "creeper",
+		"name": "Creeper"
+	},
+	{
+		"id": "dolphin",
+		"name": "Dolphin"
+	},
+	{
+		"id": "donkey",
+		"name": "Donkey"
+	},
+	{
+		"id": "drowned",
+		"name": "Drowned"
+	},
+	{
+		"id": "elder_guardian",
+		"name": "Elder guardian"
+	},
+	{
+		"id": "ender_dragon",
+		"name": "Ender dragon"
+	},
+	{
+		"id": "enderman",
+		"name": "Enderman"
+	},
+	{
+		"id": "endermite",
+		"name": "Endermite"
+	},
+	{
+		"id": "fox",
+		"name": "Fox"
+	},
+	{
+		"id": "ghast",
+		"name": "Ghast"
+	},
+	{
+		"id": "guardian",
+		"name": "Guardian"
+	},
+	{
+		"id": "horse",
+		"name": "Horse"
+	},
+	{
+		"id": "husk",
+		"name": "Husk"
+	},
+	{
+		"id": "iron_golem",
+		"name": "Iron golem"
+	},
+	{
+		"id": "llama",
+		"name": "Llama"
+	},
+	{
+		"id": "magma_cube",
+		"name": "Magma cube"
+	},
+	{
+		"id": "phantom",
+		"name": "Phantom"
+	},
+	{
+		"id": "pig",
+		"name": "Pig"
+	},
+	{
+		"id": "pillager",
+		"name": "Pillager"
+	},
+	{
+		"id": "polar_bear",
+		"name": "Polar bear"
+	},
+	{
+		"id": "pufferfish",
+		"name": "Pufferfish"
+	},
+	{
+		"id": "rabbit",
+		"name": "Rabbit"
+	},
+	{
+		"id": "ravager",
+		"name": "Ravager"
+	},
+	{
+		"id": "salmon",
+		"name": "Salmon"
+	},
+	{
+		"id": "sheep",
+		"name": "Sheep"
+	},
+	{
+		"id": "shulker",
+		"name": "Shulker"
+	},
+	{
+		"id": "silverfish",
+		"name": "Silverfish"
+	},
+	{
+		"id": "skeleton",
+		"name": "Skeleton"
+	},
+	{
+		"id": "skeleton_horse",
+		"name": "Skeleton horse"
+	},
+	{
+		"id": "slime",
+		"name": "Slime"
+	},
+	{
+		"id": "spider",
+		"name": "Spider"
+	},
+	{
+		"id": "squid",
+		"name": "Squid"
+	},
+	{
+		"id": "stray",
+		"name": "Stray"
+	},
+	{
+		"id": "trader_llama",
+		"name": "Trader Llama"
+	},
+	{
+		"id": "tropical_fish",
+		"name": "Tropical fish"
+	},
+	{
+		"id": "turtle",
+		"name": "Turtle"
+	},
+	{
+		"id": "villager",
+		"name": "Villager"
+	},
+	{
+		"id": "vindicator",
+		"name": "Vindicator"
+	},
+	{
+		"id": "wandering_trader",
+		"name": "Wandering Trader"
+	},
+	{
+		"id": "witch",
+		"name": "Witch"
+	},
+	{
+		"id": "wither",
+		"name": "Wither"
+	},
+	{
+		"id": "wither_skeleton",
+		"name": "Wither skeleton"
+	},
+	{
+		"id": "wolf",
+		"name": "Wolf"
+	},
+	{
+		"id": "zombie",
+		"name": "Zombie"
+	},
+	{
+		"id": "zombie_pigman",
+		"name": "Zombie pigman"
+	},
+	{
+		"id": "zombie_villager",
+		"name": "Zombie villager"
+	}
+]

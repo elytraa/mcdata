@@ -1,0 +1,78 @@
+[
+	{
+		"id": "bone_meal",
+		"name": "Bone meal"
+	},
+	{
+		"id": "bucket",
+		"name": "Bucket"
+	},
+	{
+		"id": "chest",
+		"name": "Chest"
+	},
+	{
+		"id": "comparator",
+		"name": "Comparator"
+	},
+	{
+		"id": "fishing_rod",
+		"name": "Fishing rod"
+	},
+	{
+		"id": "flint_and_steel",
+		"name": "Flint and Steel"
+	},
+	{
+		"id": "furnace",
+		"name": "Furnace"
+	},
+	{
+		"id": "lava_bucket",
+		"name": "Lava bucket"
+	},
+	{
+		"id": "minecart",
+		"name": "Minecart"
+	},
+	{
+		"id": "oak_sign",
+		"name": "Oak sign"
+	},
+	{
+		"id": "painting",
+		"name": "Painting"
+	},
+	{
+		"id": "player_head",
+		"name": "Player head"
+	},
+	{
+		"id": "potion",
+		"name": "Potion"
+	},
+	{
+		"id": "rail",
+		"name": "Rail"
+	},
+	{
+		"id": "repeater",
+		"name": "Repeater"
+	},
+	{
+		"id": "splash_potion",
+		"name": "Splash potion"
+	},
+	{
+		"id": "torch",
+		"name": "Torch"
+	},
+	{
+		"id": "water_bucket",
+		"name": "Water bucket"
+	},
+	{
+		"id": "yellow_bed",
+		"name": "Yellow bed"
+	}
+]

@@ -1,0 +1,48 @@
+[
+
+  {
+    "id": "custom",
+    "type": "number"
+  },
+
+  {
+    "id": "broken",
+    "type": "number"
+  },
+
+  {
+    "id": "crafted",
+    "type": "number"
+  },
+
+  {
+    "id": "dropped",
+    "type": "number"
+  },
+
+  {
+    "id": "killed",
+    "type": "number"
+  },
+
+  {
+    "id": "killed_by",
+    "type": "number"
+  },
+
+  {
+    "id": "mined",
+    "type": "number"
+  },
+
+  {
+    "id": "picked_up",
+    "type": "number"
+  },
+
+  {
+    "id": "used",
+    "type": "number"
+  }
+
+]

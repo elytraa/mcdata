@@ -1,0 +1,299 @@
+[
+	{
+		"id": "animals_bred",
+		"name": "Dyr reprodusert",
+		"description": ""
+	},
+	{
+		"id": "aviate_one_cm"
+	},
+	{
+		"id": "bell_ring",
+		"name": "Klokkering",
+		"description": ""
+	},
+	{
+		"id": "boat_one_cm",
+		"name": "Avstand kjørt med båt",
+		"description": ""
+	},
+	{
+		"id": "clean_banner",
+		"name": "Rengjør banner",
+		"description": ""
+	},
+	{
+		"id": "climb_one_cm",
+		"name": "Avstand klatret",
+		"description": ""
+	},
+	{
+		"id": "crouch_one_cm",
+		"name": "Avstand gått på huk",
+		"description": ""
+	},
+	{
+		"id": "damage_absorbed",
+		"name": "Skade absorbert",
+		"description": ""
+	},
+	{
+		"id": "damage_blocked_by_shield",
+		"name": "Skade blokkert med skjold",
+		"description": ""
+	},
+	{
+		"id": "damage_dealt",
+		"name": "Skade påført",
+		"description": ""
+	},
+	{
+		"id": "damage_taken",
+		"name": "Skade mottatt",
+		"description": ""
+	},
+	{
+		"id": "deaths",
+		"name": "Dødsfall",
+		"description": ""
+	},
+	{
+		"id": "drop",
+		"name": "Drops",
+		"description": ""
+	},
+	{
+		"id": "eat_cake_slice",
+		"name": "Spist ett kakestykke",
+		"description": ""
+	},
+	{
+		"id": "enchant_item",
+		"name": "Gjenstander enchantet",
+		"description": ""
+	},
+	{
+		"id": "fall_one_cm",
+		"name": "Total avstand falt",
+		"description": ""
+	},
+	{
+		"id": "fall_one_cm"
+	},
+	{
+		"id": "fill_cauldron"
+	},
+	{
+		"id": "fish_caught",
+		"name": "Fisk fanget",
+		"description": ""
+	},
+	{
+		"id": "fly_one_cm",
+		"name": "Avstand flydd",
+		"description": "Hvor langt en spiller har flydd."
+	},
+	{
+		"id": "horse_one_cm",
+		"name": "Avstand ridd med hest",
+		"description": ""
+	},
+	{
+		"id": "inspect_dispenser",
+		"name": "Inspisert dispenser",
+		"description": ""
+	},
+	{
+		"id": "inspect_dropper",
+		"name": "Inspisert dropper",
+		"description": ""
+	},
+	{
+		"id": "inspect_hopper",
+		"name": "Inspisert en hopper",
+		"description": ""
+	},
+	{
+		"id": "interact_with_anvil",
+		"name": "Samhandlet med anvils",
+		"description": ""
+	},
+	{
+		"id": "interact_with_beacon",
+		"name": "Samhandlet med beacon",
+		"description": ""
+	},
+	{
+		"id": "interact_with_blast_furnace"
+	},
+	{
+		"id": "interact_with_brewingstand"
+	},
+	{
+		"id": "interact_with_campfire",
+		"name": "Samhandlinger med bål",
+		"description": ""
+	},
+	{
+		"id": "interact_with_cartography_table",
+		"name": "Samhandlinger med Cartography bord",
+		"description": ""
+	},
+	{
+		"id": "interact_with_crafting_table"
+	},
+	{
+		"id": "interact_with_furnace",
+		"name": "Samhandlinger med ovn",
+		"description": ""
+	},
+	{
+		"id": "interact_with_grindstone"
+	},
+	{
+		"id": "interact_with_lectern"
+	},
+	{
+		"id": "interact_with_loom",
+		"name": "Samhandlinger med vevstol",
+		"description": ""
+	},
+	{
+		"id": "interact_with_smoker"
+	},
+	{
+		"id": "interact_with_stonecutter"
+	},
+	{
+		"id": "jump",
+		"name": "Hopp",
+		"description": ""
+	},
+	{
+		"id": "leave_game",
+		"name": "Frakoblinger",
+		"description": ""
+	},
+	{
+		"id": "minecart_one_cm",
+		"name": "Avstand kjørt med Minecart",
+		"description": ""
+	},
+	{
+		"id": "mob_kills",
+		"name": "Mobs drept",
+		"description": ""
+	},
+	{
+		"id": "open_barrel"
+	},
+	{
+		"id": "open_chest",
+		"name": "Kister åpnet",
+		"description": ""
+	},
+	{
+		"id": "open_enderchest",
+		"name": "Enderchest åpnet",
+		"description": ""
+	},
+	{
+		"id": "open_shulker_box"
+	},
+	{
+		"id": "pig_one_cm"
+	},
+	{
+		"id": "play_noteblock",
+		"name": "Spilt en noteblock",
+		"description": ""
+	},
+	{
+		"id": "play_one_minute",
+		"name": "Tid spilt",
+		"description": "Hvor lenge en spiller har spilt totalt."
+	},
+	{
+		"id": "play_record",
+		"name": "Spilt musikk",
+		"description": ""
+	},
+	{
+		"id": "player_kills",
+		"name": "Spillere drept",
+		"description": ""
+	},
+	{
+		"id": "pot_flower"
+	},
+	{
+		"id": "raid_trigger",
+		"name": "Raid trigget",
+		"description": ""
+	},
+	{
+		"id": "raid_win",
+		"name": "Raids vunnet",
+		"description": ""
+	},
+	{
+		"id": "sleep_in_bed",
+		"name": "Ganger sovet",
+		"description": ""
+	},
+	{
+		"id": "sneak_time",
+		"name": "Lengde gått på huk",
+		"description": ""
+	},
+	{
+		"id": "sprint_one_cm",
+		"name": "Avstand løpt",
+		"description": ""
+	},
+	{
+		"id": "swim_one_cm",
+		"name": "Avstand svømt",
+		"description": ""
+	},
+	{
+		"id": "talked_to_villager"
+	},
+	{
+		"id": "time_since_death",
+		"name": "Tid gått siden siste død",
+		"description": ""
+	},
+	{
+		"id": "time_since_rest",
+		"name": "Tid siden søvn",
+		"description": ""
+	},
+	{
+		"id": "traded_with_villager"
+	},
+	{
+		"id": "trigger_trapped_chest"
+	},
+	{
+		"id": "tune_noteblock"
+	},
+	{
+		"id": "use_cauldron"
+	},
+	{
+		"id": "walk_on_water_one_cm",
+		"name": "Avstand gått på vann",
+		"description": ""
+	},
+	{
+		"id": "walk_one_cm",
+		"name": "Avstand spasert",
+		"description": ""
+	},
+	{
+		"id": "walk_under_water_one_cm",
+		"name": "Avstand gått under vann",
+		"description": ""
+	}
+]

@@ -1,0 +1,333 @@
+[
+	{
+		"id": "animals_bred",
+		"name": "Animals bred",
+    "type": "number"
+	},
+	{
+		"id": "aviate_one_cm",
+		"name": "Distance aviated",
+		"type": "distance"
+	},
+	{
+		"id": "beacon_interaction",
+		"name": "Interactions with Beacon",
+    "type": "number"
+	},
+	{
+		"id": "bell_ring",
+		"name": "Bells rung",
+    "type": "number"
+	},
+	{
+		"id": "boat_one_cm",
+		"name": "Distance by boat",
+		"type": "distance"
+	},
+	{
+		"id": "clean_banner",
+		"name": "Banner cleaned",
+    "type": "number"
+	},
+	{
+		"id": "climb_one_cm",
+		"name": "Distance climbed",
+		"type": "distance"
+	},
+	{
+		"id": "crouch_one_cm",
+		"name": "Distance crouched",
+		"type": "distance"
+	},
+	{
+		"id": "damage_absorbed",
+		"name": "Damage absorbed",
+    "type": "number"
+	},
+	{
+		"id": "damage_blocked_by_shield",
+    "type": "number"
+	},
+	{
+		"id": "damage_dealt",
+		"name": "Damage dealt",
+    "type": "number"
+	},
+	{
+		"id": "damage_taken",
+		"name": "Damage taken",
+    "type": "number"
+	},
+	{
+		"id": "deaths",
+		"name": "Number of deaths",
+    "type": "number"
+	},
+	{
+		"id": "drop",
+		"name": "Items dropped",
+    "type": "number"
+	},
+	{
+		"id": "eat_cake_slice",
+		"name": "Cake slices eaten",
+    "type": "number"
+	},
+	{
+		"id": "enchant_item",
+		"name": "Items enchanted",
+    "type": "number"
+	},
+	{
+		"id": "fall_one_cm",
+		"name": "Distance fallen",
+		"type": "distance"
+	},
+	{
+		"id": "fill_cauldron",
+		"name": "Cauldrons filled",
+    "type": "number"
+	},
+	{
+		"id": "fish_caught",
+		"name": "Fish caught",
+    "type": "number"
+	},
+	{
+		"id": "fly_one_cm",
+		"title": "Distance flown",
+		"type": "distance"
+	},
+	{
+		"id": "horse_one_cm",
+		"title": "Distance by horse",
+		"type": "distance"
+	},
+	{
+		"id": "inspect_dispenser",
+		"name": "Dispensers searched",
+    "type": "number"
+	},
+	{
+		"id": "inspect_dropper",
+		"name": "Droppers searched",
+    "type": "number"
+	},
+	{
+		"id": "inspect_hopper",
+		"name": "Hoppers searched",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_anvil",
+		"name": "Interactions with anvil",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_beacon",
+		"name": "Interactions with beacon",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_blast_furnace",
+		"name": "Interactions with furnace",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_brewingstand",
+		"name": "Interactions with brewing stand",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_campfire",
+		"name": "Interactions with campfire",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_cartography_table",
+		"name": "Interactions with cartography table",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_crafting_table",
+		"name": "Interactions with crafting table",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_furnace",
+		"name": "Interactions with furnace",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_grindstone",
+		"name": "Interactions with grindstone",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_lectern",
+		"name": "Interactions with lecterns",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_loom",
+		"name": "Interactions with looms",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_smoker",
+		"name": "Interactions with smokers",
+    "type": "number"
+	},
+	{
+		"id": "interact_with_stonecutter",
+		"name": "Interactions with stone cutters",
+    "type": "number"
+	},
+	{
+		"id": "jump",
+		"name": "Jumps",
+    "type": "number"
+	},
+	{
+		"id": "leave_game",
+		"name": "Games quit",
+    "type": "number"
+	},
+	{
+		"id": "minecart_one_cm",
+		"name": "Distance by minecart",
+		"type": "distance"
+	},
+	{
+		"id": "mob_kills",
+		"name": "Mobs killed",
+    "type": "number"
+	},
+	{
+		"id": "open_barrel",
+		"name": "Barrels opened",
+    "type": "number"
+	},
+	{
+		"id": "open_chest",
+		"name": "Chests opened",
+    "type": "number"
+	},
+	{
+		"id": "open_enderchest",
+		"name": "Ender chests openeds",
+    "type": "number"
+	},
+	{
+		"id": "open_shulker_box",
+		"name": "Shulker boxes opened",
+    "type": "number"
+	},
+	{
+		"id": "pig_one_cm",
+		"name": "Distance by pig",
+		"type": "distance"
+	},
+	{
+		"id": "play_noteblock",
+		"name": "Noteblocks played",
+    "type": "number"
+	},
+	{
+		"id": "play_one_minute",
+		"name": "Minutes played",
+		"type": "ticks"
+	},
+	{
+		"id": "play_record",
+		"name": "Records played",
+    "type": "number"
+	},
+	{
+		"id": "player_kills",
+		"name": "Players killed",
+    "type": "number"
+	},
+	{
+		"id": "pot_flower",
+		"name": "Plants potted",
+    "type": "number"
+	},
+	{
+		"id": "raid_trigger",
+		"name": "Raids triggered",
+    "type": "number"
+	},
+	{
+		"id": "raid_win",
+		"name": "Raids won",
+    "type": "number"
+	},
+	{
+		"id": "sleep_in_bed",
+		"name": "",
+    "type": "number"
+	},
+	{
+		"id": "sneak_time",
+		"type": "ticks"
+	},
+	{
+		"id": "sprint_one_cm",
+		"name": "Distance sprinted",
+		"type": "distance"
+	},
+	{
+		"id": "swim_one_cm",
+		"name": "Distance swum",
+		"type": "distance"
+	},
+	{
+		"id": "talked_to_villager",
+		"name": "Talked to villagers",
+    "type": "number"
+	},
+	{
+		"id": "time_since_death",
+		"name": "Since last death",
+		"type": "ticks"
+	},
+	{
+		"id": "time_since_rest",
+		"name": "Since last sleep",
+		"type": "ticks"
+	},
+	{
+		"id": "traded_with_villager",
+		"name": "Traded with villagers",
+    "type": "number"
+	},
+	{
+		"id": "trigger_trapped_chest",
+		"name": "Trapped chests triggered",
+    "type": "number"
+	},
+	{
+		"id": "tune_noteblock",
+		"name": "Noteblocks tuned",
+    "type": "number"
+	},
+	{
+		"id": "use_cauldron",
+		"name": "Water taken from cauldron",
+    "type": "number"
+	},
+	{
+		"id": "walk_on_water_one_cm",
+		"type": "distance"
+	},
+	{
+		"id": "walk_one_cm",
+		"name": "Distance walked",
+		"type": "distance"
+	},
+	{
+		"id": "walk_under_water_one_cm",
+		"type": "distance"
+	}
+]

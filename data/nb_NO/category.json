@@ -1,0 +1,47 @@
+[
+	{
+		"id": "broken",
+		"name": "Gjenstander ødelagt",
+		"description": "Antall gjenstander ødelagt av spillere."
+	},
+	{
+		"id": "crafted",
+		"name": "Gjenstander utformet",
+		"description": "Antall gjenstander laget i ett crafting table."
+	},
+	{
+		"id": "custom",
+		"name": "Custom",
+		"description": "Varierte hendelser som ikke passer inn i en annen kategori."
+	},
+	{
+		"id": "dropped",
+		"name": "Gjenstander droppet",
+		"description": "Antall gjenstander spillere har droppet fra inventaret sitt."
+	},
+	{
+		"id": "killed",
+		"name": "Drap utført",
+		"description": "Drap utfør på dyr og mobs."
+	},
+	{
+		"id": "killed_by",
+		"name": "Drept av",
+		"description": "Hvem spillere har blitt drept mest av."
+	},
+	{
+		"id": "mined",
+		"name": "Blokker minet",
+		"description": "Gjenstander minet av spillere."
+	},
+	{
+		"id": "picked_up",
+		"name": "Gjenstander plukket opp",
+		"description": "Gjenstander som ligger på bakken som spillere har plukket opp."
+	},
+	{
+		"id": "used",
+		"name": "Gjenstander brukt",
+		"description": "Gjenstander spillere har brukt eller plassert og lignende."
+	}
+]

@@ -1,0 +1,15 @@
+{
+  "name": "mcdata",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "@powershell $env:DEBUG='*'; node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Freddy Lundekvam",
+  "license": "MIT",
+  "dependencies": {
+    "convert-units": "^2.3.4"
+  }
+}
