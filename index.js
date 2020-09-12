@@ -54,14 +54,14 @@ module.exports = {
       const l_animals = await loadFile( `./data/${language}/animals.json` )
 
       data[language] = [
-        ...l_category.map( ( i_category, i ) => Object.assign( {}, i_category, category[i] ) ),
-        ...l_custom.map( ( i_custom, i ) => Object.assign( {}, i_custom, custom[i] ) ),
-        ...l_blocks.map( ( i_block, i ) => Object.assign( {}, i_block, blocks[i] ) ),
-        ...l_food.map( ( i_food, i ) => Object.assign( {}, i_food, food[i] ) ),
-        ...l_items.map( ( i_item, i ) => Object.assign( {}, i_item, items[i] ) ),
-        ...l_mobs.map( ( i_mob, i ) => Object.assign( {}, i_mob, mobs[i] ) ),
-        ...l_tools.map( ( i_tool, i ) => Object.assign( {}, i_tool, tools[i] ) ),
-        ...l_animals.map( ( i_animal, i ) => Object.assign( {}, i_animal, animals[i] ) )
+        ...l_category.map( ( i_category, i ) => Object.assign( {}, category[i], i_category ) ),
+        ...l_custom.map( ( i_custom, i ) => Object.assign( {}, custom[i], i_custom ) ),
+        ...l_blocks.map( ( i_block, i ) => Object.assign( {}, blocks[i], i_block ) ),
+        ...l_food.map( ( i_food, i ) => Object.assign( {}, food[i], i_food ) ),
+        ...l_items.map( ( i_item, i ) => Object.assign( {}, items[i], i_item ) ),
+        ...l_mobs.map( ( i_mob, i ) => Object.assign( {}, mobs[i], i_mob ) ),
+        ...l_tools.map( ( i_tool, i ) => Object.assign( {}, tools[i], i_tool ) ),
+        ...l_animals.map( ( i_animal, i ) => Object.assign( {}, animals[i], i_animal ) )
       ]
     }
 
@@ -72,6 +72,7 @@ module.exports = {
     if( !language ) language = config.language
 
     const block = data[language].find( d => d.id === id ) || {}
+
     const entry = {
       id: id,
       entity: {
