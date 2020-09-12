@@ -2,7 +2,7 @@
 	{
 		"id": "animals_bred",
 		"name": "Dyr reprodusert",
-		"description": ""
+		"description": "Antall dyr reprodusert."
 	},
 	{
 		"id": "aviate_one_cm"
@@ -10,62 +10,62 @@
 	{
 		"id": "bell_ring",
 		"name": "Klokkering",
-		"description": ""
+		"description": "Antall ganger slått på en klokke."
 	},
 	{
 		"id": "boat_one_cm",
 		"name": "Avstand kjørt med båt",
-		"description": ""
+		"description": "Antall blokker kjørt totalt med båt."
 	},
 	{
 		"id": "clean_banner",
 		"name": "Rengjør banner",
-		"description": ""
+		"description": "Antall ganger ett banner har blitt rengjort."
 	},
 	{
 		"id": "climb_one_cm",
 		"name": "Avstand klatret",
-		"description": ""
+		"description": "Antall blokker klatret (Oppover)."
 	},
 	{
 		"id": "crouch_one_cm",
 		"name": "Avstand gått på huk",
-		"description": ""
+		"description": "Distanse i blokker gått på huk."
 	},
 	{
 		"id": "damage_absorbed",
 		"name": "Skade absorbert",
-		"description": ""
+		"description": "Total skade absorbert fra spillere og mobs."
 	},
 	{
 		"id": "damage_blocked_by_shield",
 		"name": "Skade blokkert med skjold",
-		"description": ""
+		"description": "Total skade blokkert ved bruk av skjold."
 	},
 	{
 		"id": "damage_dealt",
 		"name": "Skade påført",
-		"description": ""
+		"description": "Total skade påført av spillere mot andre spillere og mobs."
 	},
 	{
 		"id": "damage_taken",
 		"name": "Skade mottatt",
-		"description": ""
+		"description": "Total skade spillere har tatt imot."
 	},
 	{
 		"id": "deaths",
 		"name": "Dødsfall",
-		"description": ""
+		"description": "Antall ganger spillere har dødd."
 	},
 	{
 		"id": "drop",
 		"name": "Drops",
-		"description": ""
+		"description": "Antall gjenstander kastet ut av inventaret."
 	},
 	{
 		"id": "eat_cake_slice",
 		"name": "Spist ett kakestykke",
-		"description": ""
+		"description": "Antall kakestykker spist."
 	},
 	{
 		"id": "enchant_item",
@@ -75,10 +75,7 @@
 	{
 		"id": "fall_one_cm",
 		"name": "Total avstand falt",
-		"description": ""
-	},
-	{
-		"id": "fall_one_cm"
+		"description": "Distanse i antall blokker for avstand spillere har falt."
 	},
 	{
 		"id": "fill_cauldron"
@@ -86,17 +83,17 @@
 	{
 		"id": "fish_caught",
 		"name": "Fisk fanget",
-		"description": ""
+		"description": "Antall fisk som er fisket opp."
 	},
 	{
 		"id": "fly_one_cm",
 		"name": "Avstand flydd",
-		"description": "Hvor langt en spiller har flydd."
+		"description": "Distanse i antall blokker for hvor langt det er flydd."
 	},
 	{
 		"id": "horse_one_cm",
 		"name": "Avstand ridd med hest",
-		"description": ""
+		"description": "Distanse i antall blokker for hvor langt det er ridd på hest."
 	},
 	{
 		"id": "inspect_dispenser",
@@ -167,22 +164,22 @@
 	{
 		"id": "jump",
 		"name": "Hopp",
-		"description": ""
+		"description": "Antall ganger det er hoppet på serveren."
 	},
 	{
 		"id": "leave_game",
 		"name": "Frakoblinger",
-		"description": ""
+		"description": "Antall ganger spillere har koblet fra serveren."
 	},
 	{
 		"id": "minecart_one_cm",
 		"name": "Avstand kjørt med Minecart",
-		"description": ""
+		"description": "Distanse i antall blokker for lengde kjørt med Minecarts."
 	},
 	{
 		"id": "mob_kills",
 		"name": "Mobs drept",
-		"description": ""
+		"description": "Antall mobs spillere har drept."
 	},
 	{
 		"id": "open_barrel"
@@ -190,12 +187,12 @@
 	{
 		"id": "open_chest",
 		"name": "Kister åpnet",
-		"description": ""
+		"description": "Antall ganger spillere har åpnet en kiste."
 	},
 	{
 		"id": "open_enderchest",
 		"name": "Enderchest åpnet",
-		"description": ""
+		"description": "Antall ganger spillere har åpnet en enderchest."
 	},
 	{
 		"id": "open_shulker_box"
@@ -216,12 +213,12 @@
 	{
 		"id": "play_record",
 		"name": "Spilt musikk",
-		"description": ""
+		"description": "Antall ganger musikk har blitt spilt av."
 	},
 	{
 		"id": "player_kills",
 		"name": "Spillere drept",
-		"description": ""
+		"description": "Antall ganger spillere har blitt drept."
 	},
 	{
 		"id": "pot_flower"
@@ -229,32 +226,32 @@
 	{
 		"id": "raid_trigger",
 		"name": "Raid trigget",
-		"description": ""
+		"description": "Antall ganger ett raid har blitt trigget."
 	},
 	{
 		"id": "raid_win",
 		"name": "Raids vunnet",
-		"description": ""
+		"description": "Antall ganger ett raid har blitt vunnet."
 	},
 	{
 		"id": "sleep_in_bed",
 		"name": "Ganger sovet",
-		"description": ""
+		"description": "Antall ganger sovet."
 	},
 	{
 		"id": "sneak_time",
-		"name": "Lengde gått på huk",
-		"description": ""
+		"name": "Snikende distanse",
+		"description": "Antall blokker gått snikende."
 	},
 	{
 		"id": "sprint_one_cm",
 		"name": "Avstand løpt",
-		"description": ""
+		"description": "Antall blokker løpt."
 	},
 	{
 		"id": "swim_one_cm",
 		"name": "Avstand svømt",
-		"description": ""
+		"description": "Antall blokker svømt."
 	},
 	{
 		"id": "talked_to_villager"
@@ -284,16 +281,16 @@
 	{
 		"id": "walk_on_water_one_cm",
 		"name": "Avstand gått på vann",
-		"description": ""
+		"description": "Hvor mange blokker det er gått på vann."
 	},
 	{
 		"id": "walk_one_cm",
 		"name": "Avstand spasert",
-		"description": ""
+		"description": "Hvor mange blokker som har blitt spasert."
 	},
 	{
 		"id": "walk_under_water_one_cm",
 		"name": "Avstand gått under vann",
-		"description": ""
+		"description": "Hvor mange blokker det er gått under vann."
 	}
 ]
