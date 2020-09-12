@@ -68,6 +68,7 @@ module.exports = {
   },
 
   get: async ( id, value = 0, language = null ) => {
+    id = id.toLowerCase()
     if( !language ) language = config.language
 
     const block = data[language].find( d => d.id === id ) || {}
