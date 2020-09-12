@@ -5,7 +5,7 @@ module.exports = {
   distance: async ( entry ) => {
     if( entry.value.raw > 0 ) {
       const value = parseInt( entry.value.raw )
-      const convert = Units( value ).from( 'cm' ).toBest()
+      const convert = Units( value / 16 ).from( 'm' ).toBest()
 
       entry.value.formatted = {
         value: parseFloat( convert.val.toFixed(2) ),
