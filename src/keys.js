@@ -1,5 +1,6 @@
 const Fs      = require('fs'),
       Util    = require('util'),
+      Path    = require('path'),
       Read    = Util.promisify(Fs.readFile),
       Convert = require('./convert')
 
@@ -77,10 +78,10 @@ class Keys {
 
   async _loadLanguage(language) {
     for await (const category of d_categories) {
-      const d_keys = JSON.parse(await Read(`./data/en_US/${category}.json`, 'utf8'))
+      const d_keys = JSON.parse(await Read(Path.join(__dirname, `../data/en_US/${category}.json`), 'utf8'))
       if (language === 'en_US') continue
 
-      const l_keys = JSON.parse(await Read(`./data/${language}/${category}.json`, 'utf8'))
+      const l_keys = JSON.parse(await Read(Path.join(__dirname, `../data/${language}/${category}.json`), 'utf8'))
       if (!l_keys.length) continue
       if (!data[language]) data[language] = []
 
