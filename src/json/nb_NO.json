@@ -1,0 +1,37 @@
+{
+  "b": "b",
+  "block": "blokk",
+  "blocks": "blokker",
+
+  "km": "km",
+  "kilometer": "kilometer",
+  "kilometers": "kilometer",
+
+  "m": "m",
+  "meter": "meter",
+  "meters": "meter",
+
+  "cm": "cm",
+  "centimeter": "centimeter",
+  "centimeters": "centimeter",
+
+  "h": "t",
+  "hour": "time",
+  "hours": "timer",
+
+  "m": "m",
+  "minute": "minutt",
+  "minutes": "minutter",
+
+  "s": "s",
+  "second": "sekund",
+  "seconds": "sekunder",
+
+  "ms": "ms",
+  "millisecond": "millisecond",
+  "milliseconds": "milliseconds",
+  
+  "u": "e",
+  "unit": "gang",
+  "units": "ganger"
+}

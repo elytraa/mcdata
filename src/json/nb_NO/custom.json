@@ -1,8 +1,8 @@
 [
 	{
 		"id": "animals_bred",
-		"name": "Dyr reprodusert",
-		"description": "Antall dyr reprodusert."
+		"name": "Dyr parret",
+		"description": "Antall dyr parret."
 	},
 	{
 		"id": "aviate_one_cm"

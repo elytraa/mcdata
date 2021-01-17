@@ -1,11 +1,7 @@
 # MCStats
-MCStats is a simple library with a sole purpose of providing simple details around
-Minecraft blocks and entities. It's original use case was in combination with
-Minecraft's internal stats tracker, needing additional information when showcasing
-said data on an external website.
+MCStats is a simple library with a sole purpose of providing simple details around Minecraft blocks and entities. It's original use case was in combination with Minecraft's internal stats tracker, needing additional information when showcasing said data on an external website.
 
-It will provide you with friendly names, descriptions and if available, a texture
-for the said entity.
+It will provide you with friendly names, descriptions and if available, a texture for the said entity.
 
 ## Features
 * Find block and entities by ID
@@ -13,8 +9,9 @@ for the said entity.
 * Converts Minecraft statistics values to humanly friendly formats
 
   * **Distance**  
-  Will return the distance of value in the most appropriate manner, that be meters, kilometers or miles.
-    * `fly_one_cm` with a value of `98232` will return `982.32` meters.
+  Will return the distance of value in the most appropriate manner, that be centimeters, meters, kilometers or miles.
+    * `fly_one_cm` with a value of `98232` will return `982.32` meters. One meter
+    is the same as one block.
 
   * **Time / Ticks**  
   Will convert time (Ticks) to a humanly friendly format, that be minutes, hours, days, weeks or months.
@@ -41,13 +38,17 @@ try {
     ]
   })
 
-  // Check a key
-  const fly_one_cm = await Stats.get('fly_one_cm', 16)
+  // Get info on a key
+  const fly_one_cm = await Stats.get('fly_one_cm')
   console.log(fly_one_cm)
 
-  // Check a key by language
+  // Get info on a key AND convert a value
   const play_one_minute = await Stats.get('play_one_minute', 9823)
   console.log(play_one_minute)
+
+  // Get info on a key AND convert a value AND specify the language
+  const deaths = await Stats.get('deaths', 271, 'nb_NO')
+  console.log(deaths)
 
 } catch(error) {
 
@@ -62,7 +63,9 @@ Languages can be defined on the go, the language specified in `init` is the lang
 
 ## Get
 ```js
-const data = stats.get( 'fly_one_cm', 98232, 'nb_NO' )
+const default = stats.get('fly_one_cm', 98232) // Returns the default language
+const norwegian = stats.get('fly_one_cm', 98232, 'nb_NO') // Returns norwegian
+const norwegian = stats.get('fly_one_cm', 98232, 'en_US') // Returns english
 ```
 
 Returns

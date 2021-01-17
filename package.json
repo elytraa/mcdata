@@ -1,8 +1,8 @@
 {
   "name": "mcdata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "main": "./src/keys.js",
+  "main": "./src/Stats.js",
   "scripts": {
     "start": "@powershell $env:DEBUG='*'; node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"

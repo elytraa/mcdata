@@ -1,7 +1,15 @@
 [
 
   {
+    "id": "acacia_boat",
+    "name": "Acacia Boat",
+    "description": "A boat made out of acacia wood."
+  },
+
+  {
     "id": "bone_meal",
+    "name": "Bone meal",
+    "description": "Bone meal is made out of bone.",
     "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAFVBMVEUAAABUVGhzc4S5ucvV1d/q6ur///9zyeLNAAAAAXRSTlMAQObYZgAAAHhJREFUKJGl0UENA0EMQ9FQ+BRMIRRMIRTMH0IvW6mzM3Oqj0+KLDlVVUW98gYCix9gGgpzATJDDLlCS5GteW42KDzKtKwLkIncQk/xCRSpFV/AVuxWzJyBSJba9Ld2BYytWPScoSiwNHCDqmKmf0fdoYD1YRv8lQ/5qTOJvwQA1AAAAABJRU5ErkJggg=="
   }
 
